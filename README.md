@@ -1,0 +1,2 @@
+# Galaxy-wars
+pygame
